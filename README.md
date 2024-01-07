@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @idavuit
-- 👀 I’m interested in frontedn dev job
+- 👀 I’m interested in frontend dev job
 - 🌱 I’m currently learning HTML, CSS
 - 📫 How to reach me: dsc - idavuit
 
